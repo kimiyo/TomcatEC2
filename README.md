@@ -23,11 +23,11 @@ Tweets elapse porject repo only? [here](https://github.com/micklinISgood/TweetsE
 
 #Geek detail
 
-![Fetch data](https://github.com/micklinISgood/TomcatEC2/blob/3d9d841dd323e527adfe3c41755b09b7802fbe62/webapps/docs/fetch.jpg)
+![Fetch data](https://github.com/micklinISgood/TomcatEC2/blob/b0eb3f0b882c8f8145c5ac848835232b180ee17e/webapps/docs/fetch.png)
 
 For distribution convenience, I pick up a sample data set from the No-SQL database as tweets_data.txt.
 
-![Fetch data](https://github.com/micklinISgood/TomcatEC2/blob/3d9d841dd323e527adfe3c41755b09b7802fbe62/webapps/docs/websocket.jpg)
+![Fetch data](https://github.com/micklinISgood/TomcatEC2/blob/b0eb3f0b882c8f8145c5ac848835232b180ee17e/webapps/docs/websocket.png)
 
 Why WebSocket?
     
