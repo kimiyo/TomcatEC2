@@ -14,3 +14,5 @@ On your browser, paste the following link and click on Tweets Elapse.
 Dependency issue?
 Follow [this](https://www.youtube.com/watch?v=-qPLGRNtgqU) 
 
+Tweets elapse porject repo only? [here](https://github.com/micklinISgood/TweetsElapse) 
+
