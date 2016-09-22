@@ -1,4 +1,5 @@
-# TomcatEC2 [DEMO](https://www.youtube.com/watch?v=yJKFps5G3MM&list=PLgxhSvoP-iTpuxlFy0f5Y49fCFSZp22TH&index=2)
+# TomcatEC2 DEMO
+[![TomcatEC2 DEMO](https://img.youtube.com/vi/N3C3V7QRn4k/0.jpg)](https://www.youtube.com/watch?v=N3C3V7QRn4k&list=PLgxhSvoP-iTpuxlFy0f5Y49fCFSZp22TH&index=2)
 
 # Quick start
 On your EC2, type
