@@ -10,6 +10,6 @@
    String redirectURL= "/hellojsp/second.jsp";
    response.sendRedirect(redirectURL);
 %>
-<a href="<%= request.getReuestURL() %>"><h3>Try Again</h3></a>
+<a href="<%= request.getRequestURL() %>"><h3>Try Again</h3></a>
 </body>   
 </html>

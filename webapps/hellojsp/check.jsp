@@ -18,6 +18,5 @@ if (num > 0.95) {
 <%
 }
 %>
-<a href="<%= request.getReuestURL() %>"><h3>Try Again</h3></a>
+<a href="<%= request.getRequestURL() %>"><h3>Try Again</h3></a>
 </body>   
-</html>
